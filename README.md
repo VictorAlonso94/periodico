@@ -1,2 +1,2 @@
-# periodico
+# PRACTICA2
 Practica 2 GIT
