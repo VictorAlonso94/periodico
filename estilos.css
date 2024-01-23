@@ -6,3 +6,11 @@ article {
     line-height:26px;
 }
 
+h1 {
+    font-family:'Courier New', Courier, monospace;
+}
+
+h2 {
+    color: blueviolet;
+    font-style: oblique;
+}
